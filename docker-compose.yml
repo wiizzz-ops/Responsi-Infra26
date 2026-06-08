@@ -38,7 +38,7 @@ services:
       DB_HOST: db
       DB_NAME: responsi
       DB_USER: student
-      DB_PASS: wrongpassword
+      DB_PASS: student123
     depends_on:
       - db
     networks:
